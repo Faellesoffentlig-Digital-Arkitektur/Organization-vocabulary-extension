@@ -1,4 +1,4 @@
-# Bilag C - Organization vocabulary extension
+# Organization vocabulary extension
 
 Vokabularet indeholder et antal elementer der er fundet relevante til
 beskrivelse af organisation og organisatoriske forhold. Vokabularet kan
